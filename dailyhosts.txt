@@ -1,0 +1,163 @@
+#Here are my additions
+127.0.0.1 cap.cyberlink.com
+127.0.0.1 activation.cyberlink.com
+127.0.0.1 activate.navicat.com
+127.0.0.1 transact.netsarang.com
+127.0.0.1 update.netsarang.com
+127.0.0.1 www.netsarang.com
+127.0.0.1 www.netsarang.co.kr
+127.0.0.1 sales.netsarang.com
+
+#banned Flash area Limit
+0.0.0.0 geo2.adobe.com
+0.0.0.0 flash.cn
+0.0.0.0 www.flash.cn
+
+#Jetbrains-webstrom
+127.0.0.1 account.jetbrains.com
+
+#sublime text3
+127.0.0.1 license.sublimehq.com
+127.0.0.1 45.55.255.55
+127.0.0.1 45.55.41.223
+
+# baned PotPlayerAds
+127.0.0.1 live.tvpot.daum.net
+127.0.0.1 potplayertv.daum.net
+
+# baned  Adobe activate
+127.0.0.1 lmlicenses.wip4.adobe.com
+127.0.0.1 lm.licenses.adobe.com
+127.0.0.1 3dns-2.adobe.com
+127.0.0.1 3dns-3.adobe.com
+127.0.0.1 activate.adobe.com
+127.0.0.1 activate-sea.adobe.com
+127.0.0.1 activate-sjc0.adobe.com
+127.0.0.1 adobe-dns.adobe.com
+127.0.0.1 adobe-dns-2.adobe.com
+127.0.0.1 adobe-dns-3.adobe.com
+127.0.0.1 ereg.adobe.com
+127.0.0.1 hl2rcv.adobe.com
+127.0.0.1 practivate.adobe.com
+127.0.0.1 wip3.adobe.com
+127.0.0.1 activate.wip3.adobe.com
+127.0.0.1 ereg.wip3.adobe.com
+127.0.0.1 wwis-dubc1-vip60.adobe.com
+
+#baned  360
+127.0.0.1 down.360.cn
+127.0.0.1 down.360safe.com
+127.0.0.1 dl.360safe.com 
+
+#leboBaned
+0.0.0.0 cdn.hpplay.com.cn
+
+#bandicam
+127.0.0.1 bandicam.com
+127.0.0.1 ssl.bandisoft.com
+
+# router ads
+127.0.0.1 de.pandora.xiaomi.com
+127.0.0.1 mishop.pandora.xiaomi.com
+127.0.0.1 auth.api.gitv.tv
+127.0.0.1 misc.pandora.xiaomi.com
+127.0.0.1 tvapi.kuyun.com
+127.0.0.1 data.mistat.xiaomi.com
+127.0.0.1 tv.aiseet.atianqi.com
+127.0.0.1 vv.play.aiseet.atianqi.com
+127.0.0.1 gallery.pandora.xiaomi.com
+127.0.0.1 config.kuyun.com
+127.0.0.1 bss.pandora.xiaomi.com
+127.0.0.1 o2o.api.xiaomi.com
+127.0.0.1 dvb.pandora.xiaomi.com
+127.0.0.1 alog.umeng.com
+127.0.0.1 pandora.mi.com
+127.0.0.1 api.ad.xiaomi.com
+127.0.0.1 sdkconfig.ad.xiaomi.com
+127.0.0.1 assistant.pandora.xiaomi.com
+127.0.0.1 tracking.miui.com
+127.0.0.1 gvod.aiseejapp.atianqi.com
+127.0.0.1 omgmta.play.aiseet.atianqi.com
+127.0.0.1 jellyfish.pandora.xiaomi.com
+127.0.0.1 starfish.pandora.xiaomi.com
+127.0.0.1 misc.in.duokanbox.com
+127.0.0.1 ad.xiaomi.com
+127.0.0.1 ad1.xiaomi.com
+127.0.0.1 ad.mi.com
+127.0.0.1 tat.pandora.xiaomi.com
+127.0.0.1 r.browser.miui.com  
+127.0.0.1 data.mistat.xiaomi.com  
+127.0.0.1 metok.sys.miui.com
+127.0.0.1 cdn.hpplay.com.cn
+127.0.0.1 hpplay.com.cn
+127.0.0.1 hpplay.com
+127.0.0.1 hpplay.cn
+127.0.0.1 app.chat.xiaomi.net
+127.0.0.1 appstore.cdn.pandora.xiaomi.com
+127.0.0.1 appstore.pandora.xiaomi.com
+127.0.0.1 api.io.mi.com
+127.0.0.1 ad.doubleclick.net
+127.0.0.1 b.netcheck.gallery.pandora.xiaomi.com
+127.0.0.1 broker.mqtt.pandora.xiaomi.com
+127.0.0.1 device.io.mi.com
+127.0.0.1 f1.market.xiaomi.com
+127.0.0.1 f2.market.xiaomi.com
+127.0.0.1 f3.market.xiaomi.com
+127.0.0.1 f4.market.xiaomi.com
+127.0.0.1 f5.market.xiaomi.com
+127.0.0.1 f1.market.mi-img.com
+127.0.0.1 f2.market.mi-img.com
+127.0.0.1 f3.market.mi-img.com
+127.0.0.1 f4.market.mi-img.com
+127.0.0.1 f5.market.mi-img.com
+127.0.0.1 file.xmpush.xiaomi.com
+127.0.0.1 g.dtv.cn.miaozhan.com
+127.0.0.1 logonext.tv.kuyun.com
+127.0.0.1 milink.pandora.xiaomi.com
+127.0.0.1 mitv.tracking.miui.com
+127.0.0.1 new.api.ad.xiaomi.com
+127.0.0.1 o2o.api.xiaomi.com.lan
+127.0.0.1 package.box.xiaomi.com
+127.0.0.1 redirect.pandora.xiaomi.com
+127.0.0.1 register.xmpush.xiaomi.com
+127.0.0.1 resolver.msg.xiaomi.net
+127.0.0.1 r.browser.miui.com
+127.0.0.1 stat.pandora.xiaomi.com
+127.0.0.1 staging.ai.api.xiaomi.com
+127.0.0.1 tv.weixin.pandora.xiaomi.com
+127.0.0.1 tvmanager.pandora.xiaomi.com
+127.0.0.1 tvmgr.pandora.xiaomi.com
+127.0.0.1 t7z.cupid.ptqy.gitv.tv
+127.0.0.1 upgrade.mishop.pandora.xiaomi.com
+127.0.0.1 v.admaster.com.cn
+127.0.0.1 vipsdkauth.hpplay.cn
+127.0.0.1 rp.hpplay.cn
+127.0.0.1 imdns.hpplay.cn
+127.0.0.1 pay.hpplay.cn
+127.0.0.1 tvapp.hpplay.cn
+127.0.0.1 image.hpplay.cn
+127.0.0.1 hotupgrade.hpplay.cn
+127.0.0.1 sdkauth.hpplay.cn
+127.0.0.1 lic.hpplay.com.cn
+127.0.0.1 pin.hpplay.cn
+127.0.0.1 sl.hpplay.cn
+127.0.0.1 519332DA.rtc.youme.im
+127.0.0.1 519332DA.dr.youme.im
+127.0.0.1 teredo.ipv6.microsoft.com
+127.0.0.1 userapi.hpplay.cn
+127.0.0.1 vipauth.hpplay.cn
+127.0.0.1 devicemgr.hpplay.cn
+
+#baned  qqAds
+127.0.0.1   fodder.qq.com
+127.0.0.1   adshmct.qq.com
+127.0.0.1   hm.l.qq.com
+127.0.0.1   adshmmsg.qq.com
+127.0.0.1   q.i.gdt.qq.com
+127.0.0.1   v.gdt.qq.com
+
+#baned  baiduAds
+127.0.0.1 drmcmm.baidu.com
+127.0.0.1 cpro.baidu.com
+127.0.0.1 hm.baidu.com
+127.0.0.1 pos.baidu.com
