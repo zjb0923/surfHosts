@@ -56,7 +56,7 @@
 127.0.0.1 bandicam.com
 127.0.0.1 ssl.bandisoft.com
 
-# router ads
+# xiaomi_ads
 127.0.0.1 de.pandora.xiaomi.com
 127.0.0.1 mishop.pandora.xiaomi.com
 127.0.0.1 auth.api.gitv.tv
@@ -130,6 +130,8 @@
 127.0.0.1 t7z.cupid.ptqy.gitv.tv
 127.0.0.1 upgrade.mishop.pandora.xiaomi.com
 127.0.0.1 v.admaster.com.cn
+
+# lebo_ads
 127.0.0.1 vipsdkauth.hpplay.cn
 127.0.0.1 rp.hpplay.cn
 127.0.0.1 imdns.hpplay.cn
