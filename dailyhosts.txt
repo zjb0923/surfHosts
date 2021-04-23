@@ -8,6 +8,11 @@
 127.0.0.1 www.netsarang.co.kr
 127.0.0.1 sales.netsarang.com
 
+#banned adguard cracked
+127.0.0.1 api.adguard.com
+127.0.0.1 api-b.adguard.com
+127.0.0.1 ip.api.rec.adguard.com
+
 #banned Flash area Limit
 0.0.0.0 geo2.adobe.com
 0.0.0.0 flash.cn
