@@ -63,6 +63,7 @@
 
 # xiaomi_ads
 127.0.0.1 de.pandora.xiaomi.com
+127.0.0.1 video.market.xiaomi.com
 127.0.0.1 mishop.pandora.xiaomi.com
 127.0.0.1 auth.api.gitv.tv
 127.0.0.1 misc.pandora.xiaomi.com
