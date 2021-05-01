@@ -23,8 +23,6 @@
 
 #sublime text3
 127.0.0.1 license.sublimehq.com
-127.0.0.1 45.55.255.55
-127.0.0.1 45.55.41.223
 
 # baned PotPlayerAds
 127.0.0.1 live.tvpot.daum.net
@@ -49,6 +47,20 @@
 127.0.0.1 ereg.wip3.adobe.com
 127.0.0.1 wwis-dubc1-vip60.adobe.com
 
+#baned  qqAds
+127.0.0.1   fodder.qq.com
+127.0.0.1   adshmct.qq.com
+127.0.0.1   hm.l.qq.com
+127.0.0.1   adshmmsg.qq.com
+127.0.0.1   q.i.gdt.qq.com
+127.0.0.1   v.gdt.qq.com
+
+#baned  baiduAds
+127.0.0.1 drmcmm.baidu.com
+127.0.0.1 cpro.baidu.com
+127.0.0.1 hm.baidu.com
+127.0.0.1 pos.baidu.com
+
 #baned  360
 127.0.0.1 down.360.cn
 127.0.0.1 down.360safe.com
@@ -63,7 +75,6 @@
 
 # xiaomi_ads
 127.0.0.1 de.pandora.xiaomi.com
-127.0.0.1 video.market.xiaomi.com
 127.0.0.1 mishop.pandora.xiaomi.com
 127.0.0.1 auth.api.gitv.tv
 127.0.0.1 misc.pandora.xiaomi.com
@@ -155,17 +166,3 @@
 127.0.0.1 userapi.hpplay.cn
 127.0.0.1 vipauth.hpplay.cn
 127.0.0.1 devicemgr.hpplay.cn
-
-#baned  qqAds
-127.0.0.1   fodder.qq.com
-127.0.0.1   adshmct.qq.com
-127.0.0.1   hm.l.qq.com
-127.0.0.1   adshmmsg.qq.com
-127.0.0.1   q.i.gdt.qq.com
-127.0.0.1   v.gdt.qq.com
-
-#baned  baiduAds
-127.0.0.1 drmcmm.baidu.com
-127.0.0.1 cpro.baidu.com
-127.0.0.1 hm.baidu.com
-127.0.0.1 pos.baidu.com
