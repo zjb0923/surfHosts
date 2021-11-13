@@ -90,7 +90,6 @@
 127.0.0.1 devicemgr.hpplay.cn
 
 #banned CADQuickSee
-0.0.0.0 cdn.hpplay.com.cn
 127.0.0.1 backup.lumion3d.net
 127.0.0.1 license.lumion3d.net
 127.0.0.1 backup.lumion3d.com
@@ -98,4 +97,4 @@
 127.0.0.1 license.lumiontech.net
 127.0.0.1 upload.lumion3d.net
 127.0.0.1 upload.lumion3d.com
-127.0.0.1 127.0.0.1 cad.glodon.com
+127.0.0.1 cad.glodon.com
