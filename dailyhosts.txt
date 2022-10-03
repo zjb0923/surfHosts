@@ -98,3 +98,6 @@
 127.0.0.1 upload.lumion3d.net
 127.0.0.1 upload.lumion3d.com
 127.0.0.1 cad.glodon.com
+
+#gay video
+142.251.43.19 www.gayvl.net
